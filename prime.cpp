@@ -36,14 +36,12 @@ int main()
 //         if (n%i==0)
 //         {
 //             cout << "Not prime";
-//             return 0;
 
 //         }
-
-        
         
 //     }
 //     cout << "prime";
+//     return 0;
     
     
 // }
